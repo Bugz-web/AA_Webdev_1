@@ -567,3 +567,12 @@ a {
         margin-left: 6rem;
     }
 }
+
+
+
+
+/* @media screen and (min-width: 300px) {
+    .card {
+        overflow: visible;
+    }
+} */
